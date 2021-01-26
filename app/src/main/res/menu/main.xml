@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    xmlns:tools="http://schemas.android.com/toolls"
+    tools:context="android.muhayyo.newsapp.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings_menu_item" />
+
+</menu>
